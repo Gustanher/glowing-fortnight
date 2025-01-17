@@ -6,9 +6,7 @@ public partial class NewScript : Node
 	// Called when the node enters the scene tree for the first time.
 	public override void _Ready()
 	{
-			GD.Print("Hello World");
-			GD.Print("Eu gostaria de para aqui no debug");
-			GD.Print("Aqui passou o debug!");
+			GD.Print("testando");
 	}
 
 	// Called every frame. 'delta' is the elapsed time since the previous frame.
